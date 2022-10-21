@@ -2,7 +2,7 @@
 ### Aplicación implementando radiobutton para la opción de la operación (Suma, resta, exponente, radicación) a realizar.
 #### _Distribución de los elementos_
   En primera instancia se creó el diseño de la app para realizar las operaciones. 
-  Los elementos usados fueron, TextView,  EditText de tipo Number, Button  y radioButton contenidos dentro de un radioGroup dado que este último implementa a opción de la desselecion de los radiobutton:
+  Los elementos usados fueron, TextView,  EditText de tipo Number, Button  y radioButton contenidos dentro de un radioGroup dado que este último implementa a opción de la desselección de los radiobutton:
   
 ![Screenshot 2022-10-21 150847](https://user-images.githubusercontent.com/81268917/197280462-ec476cec-810a-4175-8cbd-f4efc04cb31f.jpg)
 
@@ -20,3 +20,4 @@
  
  Una vez finalizado el código, se le establece el atributo para el evento de onclick en el botón, con el fin de realizar el llamado el método _“operation”_.
 
+#[**APK del proyecto**]: https://github.com/IAN63k/app-operaciones-radioButton-andorid-studio/blob/main/app-debug.apk
